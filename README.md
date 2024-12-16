@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABDULAh bin jubir</h1>
+<h1 align="center">Hi 👋, I'm ABDULLAH bin jubir</h1>
 <h3 align="center">A passionate full stock developer from bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubair7624&label=Profile%20views&color=0e75b6&style=flat" alt="jubair7624" /> </p>
