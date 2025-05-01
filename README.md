@@ -1,81 +1,119 @@
-# 👋 Hi there, I'm Abdullah Bin Jubair!
+<p align="center">
+  <h1>👋 Hi there, I'm Abdullah Bin Jubair!</h1>
+</p>
 
-Welcome to my GitHub profile! I'm an enthusiastic **full-stack developer** and **competitive programmer** who enjoys building efficient web applications and solving complex problems.
+<p align="center">
+  Welcome to my GitHub Profile! I'm an enthusiastic <strong>full-stack developer</strong> and
+  <strong>competitive programmer</strong> who enjoys building efficient web applications and solving complex problems.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Passionate about full-stack development & competitive programming
-- 🌱 Currently learning: Advanced backend systems & GraphQL
-- 💬 Ask me about: JavaScript, Python, React, Problem Solving
-- 📫 Reach me at: **jubair7624@gmail.com**
-- ⚡ Fun fact: I love turning ideas into scalable web solutions!
+<p align="center">
+  🎯 Passionate about full-stack development & competitive programming <br>
+  🌱 Currently learning: Advanced backend systems & GraphQL <br>
+  💬 Ask me about: JavaScript, Python, React, Problem Solving <br>
+  📫 Reach me at: <strong>jubair7624@gmail.com</strong> <br>
+  ⚡ Fun fact: I love turning ideas into scalable web solutions!
+</p>
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB-JUBAIR&layout=compact&theme=radical" width="400" height ="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AB-JUBAIR&show_icons=true&theme=radical" width="400" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AB-JUBAIR&theme=react-dark&area=true" width="1000" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages  
-![Python](https://skillicons.dev/icons?i=python)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![PHP](https://skillicons.dev/icons?i=php)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=js" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=php" width="40" style="margin: 0 15px;" />
+</p>
 
 ### 🎨 Frontend  
-![HTML5](https://skillicons.dev/icons?i=html)  
-![CSS3](https://skillicons.dev/icons?i=css)  
-![DaisyUI](https://img.shields.io/badge/DaisyUI-563D7C?style=for-the-badge&logo=daisyui&logoColor=white)  
-![Sass](https://skillicons.dev/icons?i=sass)  
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
-![TypeScript](https://skillicons.dev/icons?i=ts)  
-![React](https://skillicons.dev/icons?i=react)  
-![Next.js](https://skillicons.dev/icons?i=nextjs)  
-![Vue.js](https://skillicons.dev/icons?i=vue)  
-![Redux](https://skillicons.dev/icons?i=redux)  
-![Material-UI](https://skillicons.dev/icons?i=materialui)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/DaisyUI-563D7C?style=for-the-badge&logo=daisyui&logoColor=white" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=sass" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=vue" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=redux" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=materialui" width="40" style="margin: 0 15px;" />
+</p>
 
 ### 🧩 Backend  
-![Express](https://skillicons.dev/icons?i=express)  
-![GraphQL](https://skillicons.dev/icons?i=graphql)  
-![Firebase](https://skillicons.dev/icons?i=firebase)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" style="margin: 0 15px;" />
+</p>
 
 ### 🗃️ Databases & Caching  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" style="margin: 0 15px;" />
+</p>
 
 ### ⚙️ DevOps  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![Git](https://skillicons.dev/icons?i=git)  
-![AWS](https://skillicons.dev/icons?i=aws)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=aws" width="40" style="margin: 0 15px;" />
+</p>
 
 ### 📦 Package Managers  
-![NPM](https://skillicons.dev/icons?i=npm)  
-![JSON](https://skillicons.dev/icons?i=json)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=npm" width="40" style="margin: 0 15px;" />
+  <img src="https://skillicons.dev/icons?i=json" width="40" style="margin: 0 15px;" />
+</p>
 
 ### 🎨 UI/UX Design  
-![Figma](https://skillicons.dev/icons?i=figma)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" width="40" style="margin: 0 15px;" />
+</p>
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AbJubair&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbJubair&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbJubair&show_icons=true&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbJubair&theme=react-dark&area=true)
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/abdullah-bin-jubair)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://facebook.com/ab.jubair41)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/ab.jubair42)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/AbJubair)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:jubair7624@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/abdullah-bin-jubair">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" width="100" style="margin: 0 30px;" />
+  </a>
+  <a href="https://facebook.com/ab.jubair41">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" width="100" style="margin: 0 15px;" />
+  </a>
+  <a href="https://instagram.com/ab.jubair42">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" width="100" style="margin: 0 15px;" />
+  </a>
+  <a href="https://codeforces.com/profile/AbJubair">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&style=for-the-badge" width="100" style="margin: 0 15px;" />
+  </a>
+  <a href="mailto:jubair7624@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" width="100" style="margin: 0 15px;" />
+  </a>
+</p>
 
 ---
 
-_Thanks for stopping by! Feel free to check out my repositories and reach out if you want to collaborate or just chat._
+<p align="center">
+  <em>Thanks for stopping by! Feel free to check out my repositories and reach out if you want to collaborate or just chat.</em>
+</p>
