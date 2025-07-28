@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub Profile! I'm an enthusiastic <strong>full-stack developer</strong> and
+  Welcome to My GitHub Profile! I'm an enthusiastic <strong>full-stack developer</strong> and
   <strong>competitive programmer</strong> who enjoys building efficient web applications and solving complex problems.
 </p>
 
