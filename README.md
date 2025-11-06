@@ -117,3 +117,6 @@
 <p align="center">
   <em>Thanks for stopping by! Feel free to check out my repositories and reach out if you want to collaborate or just chat.</em>
 </p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
